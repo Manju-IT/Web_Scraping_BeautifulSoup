@@ -32,7 +32,7 @@ Feel free to contribute by:
 ✅ Reporting issues
 
 📬 Contact
-For any queries or suggestions, reach out via https://github.com/Manju-IT(#).
+For any queries or suggestions, reach out via https://github.com/Manju-IT.
 
 
 
